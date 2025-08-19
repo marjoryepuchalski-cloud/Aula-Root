@@ -1,0 +1,13 @@
+:root{
+    --width-header: 100%;
+    --heigth-header: 100px;
+    --heigth-content: 700px;
+    --heigth-footer: 100px;
+    --backgroud-color-container: lightgray;
+    --backgroud-color-header: lightgreen;
+    --backgroud-color-content: lightblue;
+    --backgroud-color-footer: lightcoral;
+    --font-size-title: 20px;
+    --font-size-subtitle: 10px;
+    --font-size-text: 10px;
+}
